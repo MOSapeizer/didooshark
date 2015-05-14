@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Untitled</title>
+    <script src="libraries/p5.js" type="text/javascript"></script>
+    <script type="text/javascript"
+    src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBwhVZ203GV8mKMOPleWYRfrTgx8AwbxLE"></script>
+    <!-- Uncomment the lines below to include extra p5 libraries -->
+    <!--<script src="libraries/p5.dom.js" type="text/javascript"></script>-->
+    <!--<script src="libraries/p5.sound.js" type="text/javascript"></script>-->
+    <script src="loadMap.js" type="text/javascript"></script>
+    <script src="sketch.js" type="text/javascript"></script>
+    <style>
+      #googleMap {
+        position: absolute;
+        width: 540px;
+        height: 340px;
+        z-index: 1;
+        margin-top: 30px;
+        margin-left: 30px;
+      }
+      #defaultCanvas {
+        position: absolute;
+        z-index: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <button onClick="testPromise()">Promise test</button>
+    <input id="fileItem" type="file" multiple>
+    <div id="log"></div>
+    <div id="googleMap"></div>
+
+    <script src="inputData.js" type="text/javascript"></script>
+  </body>
+</html>

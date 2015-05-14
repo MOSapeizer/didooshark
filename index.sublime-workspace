@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"project",
+				"project_updated"
+			],
+			[
+				"user",
+				"users_updated_project"
+			],
+			[
+				"work",
+				"work"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"find",
+				"find_all"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"cost",
+				"cost"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"cla",
+				"cla	class .. < ParentClass .. initialize .. end"
+			],
+			[
+				"sente",
+				"sentences"
+			],
+			[
+				"par",
+				"paragraphs"
+			],
+			[
+				"senten",
+				"sentence_count"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 309.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/apple/Documents/Java/Source/GCD.java",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/Chapter 10/timetracker/app/views/projects/_form.html.erb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/app/controllers/projects_controller.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/app/views/user_mailer/project_updated.html.erb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/app/mailers/user_mailer.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/app/views/user_mailer/project_updated.text.erb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/Chapter 9/timetracker/app/views/usermailer/projectupdated_email.text.erb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/app/views/projects/edit.html.erb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/app/views/projects/_form.html.erb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/app/views/projects/show.html.erb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/app/controllers/works_controller.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/config/environments/development.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/test/fixtures/projects.yml",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/app/views/user_mailer/users_updated_project.html.erb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/app/views/user_mailer/users_updated_project.text.erb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/Working Files - README.txt",
+		"/Users/apple/rubyDoc/rails_project/band_find/bin/setup",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/config/initializers/secret_token.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/Chapter 3/ruby/strings.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/Chapter 3/ruby/control-structures-if-unless.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/db/migrate/20131221222519_change_hours_field_in_works_to_integer.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/app/models/project.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/app/models/user.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/c8_pratice/timetracker/db/migrate/20150207013206_add_user_to_projects.rb",
+		"/Users/apple/rubyDoc/rails_project/band_find/config/routes.rb",
+		"/Users/apple/rubyDoc/rails_project/band_find/db/migrate/20150206145903_create_users.rb",
+		"/Users/apple/rubyDoc/rails_project/band_find/app/controllers/application_controller.rb",
+		"/Users/apple/rubyDoc/rails_project/band_find/db/development.sqlite3",
+		"/Users/apple/rubyDoc/rails_project/band_find/config/database.yml",
+		"/Users/apple/rubyDoc/rails_project/band_find/doc/ActiveSupport.html",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/Chapter 10/timetracker/db/migrate/20131229151636_add_slug_to_projects.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/Chapter 2/blog/tmp/cache/assets/development/sprockets/aada318492cd92ae01885ef3911e2717",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/Chapter 3/ruby/block-exercise.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/Chapter 3/ruby/array-hash-exercise.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/Chapter 3/ruby/string-numerics-exercise.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/Chapter 3/ruby/numerics.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/Chapter 3/ruby/string-methods.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/Chapter 3/ruby/objects-class-exercise.rb",
+		"/Users/apple/Documents/ruby/Learning Ruby On Rails - Working Files/Chapter 3/ruby/strings-interpolation.rb",
+		"/Users/apple/pyDoc/find.py",
+		"/Users/apple/pyDoc/date.py",
+		"/Users/apple/pyDoc/vlun.py",
+		"/Users/apple/Desktop/cf0day.py",
+		"/Users/apple/pyDoc/rt22.xml",
+		"/Users/apple/phpDoc/vlun.php",
+		"/Users/apple/Desktop/ggyy-99b3ed3ed5e2a293c697784ac94ee8c6.pcap",
+		"/Users/apple/rubyDoc/practice/super_p.rb",
+		"/Users/apple/rubyDoc/practice/load_file.rb",
+		"/Users/apple/rubyDoc/practice/oliver.txt",
+		"/Users/apple/rubyDoc/practice/emulator.rb",
+		"/Users/apple/rubyDoc/practice/game.rb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 200.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
